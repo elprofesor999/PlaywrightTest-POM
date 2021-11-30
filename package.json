@@ -1,0 +1,11 @@
+{
+  "author": "Tamilarasan G",
+  "devDependencies": {
+    "@playwright/test": "^1.16.3"
+  },
+  "dependencies": {
+    "@cucumber/playwright": "^3.1.0",
+    "@cucumber/screenplay": "^5.1.0"
+  }
+  
+}
